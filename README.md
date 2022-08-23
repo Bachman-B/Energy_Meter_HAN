@@ -9,8 +9,8 @@ and been modified to match HAN protocol [HANporten.se](https://hanporten.se/)
 
 
 
-# EnergyMeter-HAN
-Energy meter HAN port - Swedish Energy Meeter
+## Schematics
+![Schema](https://github.com/Bachman-B/Energy_Meter_HAN/blob/main/Images/EM.JPG?raw=true)
 
 ## Attribution & Thanks
 1. [Matthijs Kooijman](https://github.com/matthijskooijman/arduino-dsmr)
