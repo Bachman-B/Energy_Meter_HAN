@@ -15,6 +15,7 @@ and been modified to match HAN protocol [HANporten.se](https://hanporten.se/)
 ## Attribution & Thanks
 1. [Matthijs Kooijman](https://github.com/matthijskooijman/arduino-dsmr)
 2. [nldroid](https://github.com/nldroid/CustomP1UartComponent)
+3. [ESP32 Pinout Reference](https://lastminuteengineers.com/esp32-pinout-reference/)
 
 ## License
 All of the code and documentation in this library is licensed under the MIT license
