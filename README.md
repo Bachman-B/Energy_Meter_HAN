@@ -12,6 +12,21 @@ and been modified to match HAN protocol [HANporten.se](https://hanporten.se/)
 ## Schematics
 ![Schema](https://github.com/Bachman-B/Energy_Meter_HAN/blob/main/Images/EM.JPG?raw=true)
 
+##BOM
+Part Value 
+C1   1000  µF
+C2   100   nF  
+IC1  ESP32CAM  
+IC2  7404N     
+R1   1k
+R2   1k
+R3   1k
+R4   1k 
+U$1  RJ12-SIL
+                                                                                                                                                                                                                                                                                                                                                        
+
+
+
 ## Attribution & Thanks
 1. [Matthijs Kooijman](https://github.com/matthijskooijman/arduino-dsmr)
 2. [nldroid](https://github.com/nldroid/CustomP1UartComponent)
