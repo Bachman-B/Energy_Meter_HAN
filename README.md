@@ -9,12 +9,13 @@ and been modified to match HAN protocol [HANporten.se](https://hanporten.se/)
 
 
 
-# EnergyMeter-HAN
-Energy meter HAN port - Swedish Energy Meeter
+## Schematics
+![Schema](https://github.com/Bachman-B/Energy_Meter_HAN/blob/main/Images/EM.JPG?raw=true)
 
 ## Attribution & Thanks
 1. [Matthijs Kooijman](https://github.com/matthijskooijman/arduino-dsmr)
 2. [nldroid](https://github.com/nldroid/CustomP1UartComponent)
+3. [ESP32 Pinout Reference](https://lastminuteengineers.com/esp32-pinout-reference/)
 
 ## License
 All of the code and documentation in this library is licensed under the MIT license
