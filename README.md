@@ -12,7 +12,7 @@ and been modified to match HAN protocol [HANporten.se](https://hanporten.se/)
 ## Schematics
 ![Schema](https://github.com/Bachman-B/Energy_Meter_HAN/blob/main/Images/EM.JPG?raw=true)
 
-##BOM
+## BOM
 | Part     | Value         |
 | -------- | -------------:|
 | C1       | 1000uF        |
